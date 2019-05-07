@@ -2,21 +2,6 @@
 
 >  本项目是基于vue2最新实战项目，是适合新手进阶的绝佳教程。代码简单易懂，注释多多。实现了移动端使用最多的 无限滚动，图片加载，左右滑动，等待。先发布预览版本，后面更多更全的功能和教程将会陆续发出。
 
-###首先
-
-***
->*  感谢[gank.io](http://gank.io/)提供的api接口
-
->* 喜欢的请点心，关注，star ,fork,这些是我坚持下去的动力
-
->* demo地址 [demo](http://liangxiaojuan.github.io/meizi/index) （请用chrome的手机模式预览）
-
->* 本项目地址[github地址](https://github.com/liangxiaojuan/vue-Meizi)
-
->* 手机扫一扫
-
-![项目二维码.png](http://upload-images.jianshu.io/upload_images/4249223-553d02ead2cb78fe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
 
 ### 项目技术架构
 ***
@@ -46,13 +31,6 @@
 
 
 ###安装
-***
-项目地址：（`git clone`）
-```shell
-git clone https://github.com/liangxiaojuan/vue-Meizi.git
-```
-通过`npm`安装本地服务第三方依赖模块(需要已安装[Node.js](https://nodejs.org/))
-
 ```
 npm install
 ```
@@ -114,10 +92,3 @@ npm install friendly-errors-webpack-plugin --save-dev
 *  我的收藏
 *  登录
 *  等等
-
-### 最后
-***
-* 我的另外一个开源项目[饿了么app](https://github.com/liangxiaojuan/eleme)（已经star400+）
-* 如果喜欢一定要 star哈!!!（谢谢!!）
-* 如果有意见和问题 请在 lssues提出，我会在线解答。
-* 我年后要离职了 对我感兴趣的可以联系我 [简历](https://github.com/liangxiaojuan/resume)
